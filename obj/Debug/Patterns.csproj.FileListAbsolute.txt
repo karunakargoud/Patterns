@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\karun\source\repos\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\karun\source\repos\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\karun\source\repos\Patterns\Patterns\obj\Debug\Patterns.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\Patterns\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\karun\source\repos\Patterns\Patterns\obj\Debug\Patterns.pdb
